@@ -1,0 +1,3 @@
+# LazyMonday
+
+Monday mood animation:)
