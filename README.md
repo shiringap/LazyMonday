@@ -1,4 +1,4 @@
 # LazyMonday
 
 Monday mood animation:)
-[Link to view]( https://shiringap.github.io/LazyMonday/)
+[link to view]( https://shiringap.github.io/LazyMonday/)
